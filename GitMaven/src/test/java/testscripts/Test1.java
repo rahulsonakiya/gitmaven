@@ -31,6 +31,7 @@ public class Test1 {
 		//Assert.assertTrue(driver.findElement(By.linkText("Continue")).isDisplayed());
 		Thread.sleep(2000);
 		Thread.sleep(2000);
+		Thread.sleep(2000);
 		driver.quit();
 		
 		
